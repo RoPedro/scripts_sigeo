@@ -22,10 +22,10 @@ wm_item = gis.content.get(WEBMAP)
 webmap = wm_item.get_data()
 
 #Listagem das camadas do webmap
-operationalLayers = webmap['operationalLayers']
+operational_layers = webmap['operationalLayers']
 
 #Desliga a visibilidade das camadas
-for lyr in operationalLayers:
+for lyr in operational_layers:
     lyr['visibility'] = False
 
 #Atualiza o webmap
