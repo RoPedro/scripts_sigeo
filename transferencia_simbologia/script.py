@@ -25,8 +25,8 @@ wm_item = gis.content.get(WEBMAP)
 webmap = wm_item.get_data()
 
 #Consulta a simbologia da camada no webmap
-operationalLayer = webmap['operationalLayers'][INDEX]
-symbol = operationalLayer['drawingInfo']['renderer']
+operational_layers = webmap['operationalLayers'][INDEX]
+symbol = operational_layers['drawingInfo']['renderer']
 
 #Consulta a camada a partir do item
 lyr_item = gis.content.get(LAYER)
