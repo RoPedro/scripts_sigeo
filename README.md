@@ -16,29 +16,29 @@
   <summary>Table of contents | Súmario</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About the Project | Sobre o projeto</a>
+      <a href="#about-the-repository--sobre-o-repositório">About The Repository | Sobre O Repositório</a>
       <ul>
-        <li><a href="#built-with">Built With | Construído Utilizando</a></li>
+        <li><a href="#built-with--desenvolvido-com">Built With | Desenvolvido Com</a></li>
       </ul>
     </li>
     <li>
       <a href="#scripts">Scripts</a>
       <ul>
-        <li><a href="#arcgispro">ArcGIS Pro</a></li>
-        <li><a href="#arcgisonline">Arcgis Online</a></li>
+        <li><a href="#arcgis-pro">ArcGIS Pro</a></li>
+        <li><a href="#arcgis-online">ArcGIS Online</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started | Inicializando</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites | Pré-requisitos</a></li>
-        <li><a href="#installation">Installation | Instalação</a></li>
+        <li><a href="#prerequisites--pré-requisitos">Prerequisites | Pré-requisitos</a></li>
+        <li><a href="#installation--instalação">Installation | Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage | Uso</a></li>
-    <li><a href="#contributing">Contributing | Contribuindo</a></li>
-    <li><a href="#contact">Contact | Contato</a></li>
-    <li><a href="#contributors">Contributors | Contribuidores</a></li>
+    <li><a href="#usage--uso">Usage | Uso</a></li>
+    <li><a href="#contributing--contribuindo">Contributing | Contribuindo</a></li>
+    <li><a href="#contact--contato">Contact | Contato</a></li>
+    <li><a href="#contributors--contribuidores">Contributors | Contribuidores</a></li>
   </ol>
 </details>
 
@@ -49,7 +49,7 @@ Welcome! This is a repository created by SIGEO from Niterói city hall to organi
 <p>Bem vindo(a)! Esse é um repositório criado pelo SIGEO da prefeitura de Niterói para organizar e compartilhar alguns de nossos scripts de geoprocessamento. Aqui você encontra scripts de uso diverso utilizando as bibliotecas arcgis.gis e arcpy com dados espaciais.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With | Desenvolvido com
+### Built With | Desenvolvido Com
 
 [![Python]][Python-url] ![env] ![Arcgis]
 
