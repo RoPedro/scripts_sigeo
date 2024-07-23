@@ -36,7 +36,7 @@
       </ul>
     </li>
     <li><a href="#usage--uso">Usage | Uso</a></li>
-    <li><a href="#contributing--contribuindo">Contributing | Contribuindo</a></li>
+    <li><a href="#-contributing--contribuindo">Contributing | Contribuindo</a></li>
     <li><a href="#contact--contato">Contact | Contato</a></li>
     <li><a href="#contributors--contribuidores">Contributors | Contribuidores</a></li>
   </ol>
