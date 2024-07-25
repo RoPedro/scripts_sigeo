@@ -142,10 +142,15 @@ Sistema de Gestão de Geoinformação - [Portal SIGeo](https://www.sigeo.niteroi
 
 ## Contributors | Contribuidores
 
-<img src="https://contrib.rocks/image?repo=SIGeo-Niteroi/scripts&anon=0&columns=20&max=100" alt="Lista de contribuidores"/>
+<a href="https://github.com/SIGeo-Niteroi/scripts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SIGeo-Niteroi/scripts" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+[img]: https://contrib.rocks/image?repo=SIGeo-Niteroi/scripts&anon=0&columns=20&max=100
 [Python]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 [Arcgis]: https://img.shields.io/badge/ArcGIS-2C7AC3.svg?style=for-the-badge&logo=ArcGIS&logoColor=white
