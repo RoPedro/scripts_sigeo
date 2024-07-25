@@ -86,7 +86,7 @@ Welcome! This is a repository created by SIGEO from Niterói city hall to organi
 
 First, install the dependencies needed to run this project
 
-<p>Primeiro, instale as dependencias necessárias para rodar o projeto</p>
+<p>Primeiro, instale as dependências necessárias para rodar o projeto</p>
 
 ### Prerequisites | Pré-requisitos
 
